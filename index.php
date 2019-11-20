@@ -1,5 +1,6 @@
 <?php
 // Connexion à la base de données
+// Coucou c'est gabin
 require "Modele/bdd.php";
 
 // Appel les controleurs
